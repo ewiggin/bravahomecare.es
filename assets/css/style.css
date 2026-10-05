@@ -629,3 +629,58 @@ h3 { font-size: 1.1rem; font-weight: 700; }
   .brand__name { font-size: 1.2rem; }
   .hero__ctas .btn { width: 100%; }
 }
+
+/* Formulario: casilla de privacidad */
+.form label.form__check {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--muted);
+}
+.form label.form__check input { width: auto; margin: 4px 0 0; accent-color: var(--navy); }
+.form label.form__check a { color: var(--navy); }
+
+/* Pie: enlaces legales */
+.footer__legal a { text-decoration: none; }
+.footer__legal a:hover { text-decoration: underline; }
+
+/* Páginas legales */
+.nav.nav--legal { display: flex; flex-direction: row; align-items: center; gap: 24px; }
+.nav__back {
+  font-family: var(--font-head);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--navy);
+}
+.nav__back:hover { color: var(--gold); }
+
+.legal { max-width: 780px; }
+.legal h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); text-transform: uppercase; }
+.legal h2 { font-size: 1.15rem; margin-top: 2.2em; text-transform: none; letter-spacing: 0; }
+.legal h3 { font-size: 1rem; margin-top: 1.4em; }
+.legal p, .legal li { color: var(--text); }
+.legal ul { padding-left: 1.2em; }
+.legal li { margin-bottom: 0.4em; }
+.legal a { color: var(--navy); }
+.legal__updated { color: var(--muted); font-size: 0.9rem; }
+.legal__note { font-size: 0.9rem; color: var(--muted); font-style: italic; }
+.legal__data { list-style: none; padding: 20px 24px !important; background: var(--cream-light); border-radius: var(--radius); }
+
+/* Datos pendientes de rellenar: muy visibles a propósito */
+mark.todo { background: #ffe066; color: #5a4500; padding: 0 4px; border-radius: 4px; font-weight: 700; }
+
+@media (max-width: 960px) {
+  .nav.nav--legal { position: static; display: flex; padding: 0; border: 0; background: none; }
+  .nav--legal .lang { padding-top: 0; }
+}
+@media (max-width: 560px) {
+  .nav__back { display: none; }
+}
