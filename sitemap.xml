@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bravahomecare.es/es/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bravahomecare.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bravahomecare.es/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bravahomecare.es/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bravahomecare.es/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bravahomecare.es/en/"/>
+  </url>
+  <url>
+    <loc>https://bravahomecare.es/ca/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bravahomecare.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bravahomecare.es/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bravahomecare.es/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bravahomecare.es/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bravahomecare.es/en/"/>
+  </url>
+  <url>
+    <loc>https://bravahomecare.es/en/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bravahomecare.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bravahomecare.es/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bravahomecare.es/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bravahomecare.es/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bravahomecare.es/en/"/>
+  </url>
+  <url>
+    <loc>https://bravahomecare.es/fr/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bravahomecare.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bravahomecare.es/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bravahomecare.es/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bravahomecare.es/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bravahomecare.es/en/"/>
+  </url>
+</urlset>
