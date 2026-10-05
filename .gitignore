@@ -1,0 +1,9 @@
+# Documentación interna del negocio: NO publicar (el repositorio de GitHub Pages es público)
+CLAUDE.md
+.claude/
+
+# Material original (flyer)
+WhatsApp Image*.jpeg
+
+# Sistema
+.DS_Store
