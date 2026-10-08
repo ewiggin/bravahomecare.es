@@ -2,8 +2,8 @@
 CLAUDE.md
 .claude/
 
-# Material original (flyer)
-WhatsApp Image*.jpeg
-
 # Sistema
 .DS_Store
+
+# Archivos temporales
+tmp/
